@@ -17,7 +17,12 @@
     <dependencies>
         <dependency>
             <groupId>com.nx</groupId>
-            <artifactId>demo-consumer</artifactId>
+            <artifactId>nx-rpc-core</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.nx</groupId>
+            <artifactId>demo-common</artifactId>
             <version>1.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/cn.hutool/hutool-all -->
@@ -32,12 +37,6 @@
             <artifactId>lombok</artifactId>
             <version>1.18.36</version>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.nx</groupId>
-            <artifactId>demo-common</artifactId>
-            <version>1.0</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
     <build>
