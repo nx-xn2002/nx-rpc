@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-common/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/domo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/nx-rpc-core/pom.xml" />
       </list>
     </option>
   </component>

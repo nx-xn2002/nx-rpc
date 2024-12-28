@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/demo-consumer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/domo-provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/domo-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nx-rpc-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nx-rpc-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
