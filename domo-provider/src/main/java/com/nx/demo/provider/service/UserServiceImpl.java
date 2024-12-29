@@ -12,6 +12,7 @@ import com.nx.demo.common.service.UserService;
 public class UserServiceImpl implements UserService {
     @Override
     public User getUser(User user) {
-        return null;
+        System.out.println(user.getName());
+        return user;
     }
 }
