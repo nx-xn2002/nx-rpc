@@ -17,4 +17,13 @@ public interface UserService {
      * @author nx-xn2002
      */
     User getUser(User user);
+
+    /**
+     * gen number
+     *
+     * @return long
+     */
+    default long genNumber() {
+        return 1L;
+    }
 }

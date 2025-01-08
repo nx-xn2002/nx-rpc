@@ -28,6 +28,10 @@ public class ConsumerDemo {
         } else {
             System.out.println("user == null");
         }
+
+        //测试 mock
+        long number = userService.genNumber();
+        System.out.println(number);
     }
 }
 
